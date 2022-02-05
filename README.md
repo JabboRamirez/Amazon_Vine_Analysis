@@ -15,9 +15,9 @@ Data Source
   Amazon Vine Reviews for video games
 
 Software:
-  Google Colab Vine_Review_Analysis.ipynb
+  Google Colab : Vine_Review_Analysis.ipynb
   PgAdmin
-  AWS Amazon_Reviews_ETL.ipynb
+  AWS : Amazon_Reviews_ETL.ipynb
 
 Languages:
   pySpark
